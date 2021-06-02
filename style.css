@@ -212,7 +212,7 @@ body {
     font-size: 16px;
     font-weight: 700;
     line-height: 24px;
-    margin-bottom: 20px;
+    margin-bottom: 5px;
 }
 
 .sw-development {
@@ -224,7 +224,7 @@ body {
 
 .first-character {
     color: #ff6b08;
-    font-size:large;
+    font-size: large;
 }
 
 .languages-title {
@@ -247,4 +247,12 @@ body {
 
 .languages-text {
     color: #fff;
+}
+
+.school {
+    padding-bottom: 20px;
+}
+
+.education {
+    margin-bottom: 20px;
 }
